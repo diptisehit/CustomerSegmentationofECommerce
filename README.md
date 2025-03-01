@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/63ff5a51-a49f-433b-adc5-6312ab2484ed)
+
 What is RFM Analysis?
 
 RFM analysis, which stands for Recency, Frequency, and Monetary value, is a technique that helps marketers identify their most valuable customers. By studying the behavior of your customer base, this analysis allows you to tailor personalized marketing strategies that boost customer loyalty and lifetime value.
@@ -12,7 +15,7 @@ Frequency: How often a customer makes a purchase.Measures loyalty and ongoing en
 
 Monetary Value: How much a customer spends.Reflects customer value and profitability. High spenders are valuable for driving revenue and can be rewarded with exclusive perks.
 
-![image](https://github.com/user-attachments/assets/63ff5a51-a49f-433b-adc5-6312ab2484ed)
+
 
 ![image](https://github.com/user-attachments/assets/6bb98879-6d54-4315-95a9-a51c1fbe00ec)
 
