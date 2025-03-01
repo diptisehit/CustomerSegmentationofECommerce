@@ -1,3 +1,11 @@
+# **Online shopping Customer Segmentation**
+## **Problem statement**
+
+## 1. Segment (Group/Cluster) customer on basis of RFM (Recency, Frequency, Monetary) 
+## 2. Segment (Group/Cluster) Identify trends for Day, Month, Season, Time by Invoice count
+## 3.Top 10 selling product 
+## 4. Best product at country level.
+## 5. FINDING CUSTOMER VALUATION.
 
 ![image](https://github.com/user-attachments/assets/63ff5a51-a49f-433b-adc5-6312ab2484ed)
 
