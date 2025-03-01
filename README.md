@@ -2,7 +2,7 @@
 ## **Problem statement**
 
 ## 1. Segment (Group/Cluster) customer on basis of RFM (Recency, Frequency, Monetary) 
-Please refer Customer_Segmentation_by_RFM_approach.ipynb for pyhton code.
+Please refer Customer_Segmentation_by_RFM_approach.ipynb for python code.
 
 ![image](https://github.com/user-attachments/assets/63ff5a51-a49f-433b-adc5-6312ab2484ed)
 
@@ -28,7 +28,7 @@ Monetary Value: How much a customer spends.Reflects customer value and profitabi
 
 
 ## 2. Segment (Group/Cluster) Identify trends for Day, Month, Season, Time by Invoice count
-      Please refer EDA_for_Identify_Trends.ipynb for pyhton code.
+      Please refer EDA_for_Identify_Trends.ipynb for python code.
 ## 3.Top 10 selling product.
       Please refer Top10_selling_products_&_Best_Product_at_country_level.ipynb for python code.
 ## 4. Best product at country level.
