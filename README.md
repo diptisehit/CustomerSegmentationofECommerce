@@ -30,3 +30,8 @@ Monetary Value: How much a customer spends.Reflects customer value and profitabi
 ![image](https://github.com/user-attachments/assets/055e7079-9f60-4544-837e-a209e61be974)
 
 
+# Problem 5 - Prediction of Customer lifetime value
+
+![image](https://github.com/user-attachments/assets/2f8d047b-8568-4adf-b1a7-d4df563acc46)
+
+
