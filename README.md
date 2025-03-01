@@ -2,11 +2,6 @@
 ## **Problem statement**
 
 ## 1. Segment (Group/Cluster) customer on basis of RFM (Recency, Frequency, Monetary) 
-## 2. Segment (Group/Cluster) Identify trends for Day, Month, Season, Time by Invoice count
-## 3.Top 10 selling product 
-## 4. Best product at country level.
-## 5. FINDING CUSTOMER VALUATION.
-
 ![image](https://github.com/user-attachments/assets/63ff5a51-a49f-433b-adc5-6312ab2484ed)
 
 What is RFM Analysis?
@@ -30,7 +25,11 @@ Monetary Value: How much a customer spends.Reflects customer value and profitabi
 ![image](https://github.com/user-attachments/assets/055e7079-9f60-4544-837e-a209e61be974)
 
 
-# Problem 5 - Prediction of Customer lifetime value
+## 2. Segment (Group/Cluster) Identify trends for Day, Month, Season, Time by Invoice count
+## 3.Top 10 selling product 
+## 4. Best product at country level.
+## 5. FINDING CUSTOMER VALUATION.
+# - Prediction of Customer lifetime value
 
 ![image](https://github.com/user-attachments/assets/2f8d047b-8568-4adf-b1a7-d4df563acc46)
 
